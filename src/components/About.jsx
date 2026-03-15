@@ -3,9 +3,9 @@ import { FiCode, FiSmartphone, FiCloud } from 'react-icons/fi';
 import { aboutText, personalInfo } from '../data/portfolioData';
 
 const highlights = [
-  { icon: FiCode, label: 'Backend & API', value: 'Spring Boot · Node.js' },
-  { icon: FiSmartphone, label: 'Mobile Dev', value: 'Android · iOS · React Native' },
-  { icon: FiCloud, label: 'Cloud & AI', value: 'AWS · Generative AI' },
+  { icon: FiCode, label: 'Backend & API', value: 'Spring Boot  · Node.js' },
+  { icon: FiSmartphone, label: 'Mobile Dev', value: 'Android  · iOS  · React Native' },
+  { icon: FiCloud, label: 'Cloud & AI', value: 'AWS  · Generative AI' },
 ];
 
 export default function About() {
