@@ -7,7 +7,7 @@ export const personalInfo = {
   location: 'Pune, India',
   github: 'https://github.com/Abhipagar92',
   linkedin: 'https://linkedin.com/in/abhishek-pagar-0611021a6',
-  resume: '/resume.pdf',
+  resume: 'https://drive.google.com/file/d/1MPS8DSySydQIzbE8qSN2Uc4EJ0fbyO5I/view?usp=drive_link',
 };
 
 export const aboutText = `I'm a passionate Java Full Stack Developer with hands-on experience across the full software development spectrum — from designing scalable REST APIs and microservices with Spring Boot and Node.js, to building intuitive Android and iOS mobile applications. I thrive at the intersection of backend engineering and mobile development, leveraging cloud technologies like AWS to build robust, production-grade systems. Currently pursuing a PG Diploma in Mobile Computing at CDAC Pune, I'm continuously expanding my expertise into AI/ML integrations and Generative AI to craft intelligent, next-generation applications.`;
